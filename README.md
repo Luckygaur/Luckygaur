@@ -73,7 +73,6 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
 
 ---
 
-## 📫 Connect with Me  
 ## 📫 Connect with Me
 
 <p align="left">
