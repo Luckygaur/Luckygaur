@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Luckygaur**, a passionate developer with a love for learning and creating. Here’s a little bit about me:
+Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a love for learning and creating. Here’s a little bit about me:
 
 ---
 
