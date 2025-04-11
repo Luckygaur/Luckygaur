@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
 
 🚀 About Me  
 🔭 I’m currently working on various projects related to Artificial Intelligence, Machine Learning & Python Backend Development  
-🌱 I’m currently learning FAST APIs and system design  
+🌱 I’m currently learning FAST APIs .
 💬 Ask me about anything — I may either know it or I’ll learn it!  
 📫 How to reach me: gaurlucky102003@gmail.com
 
