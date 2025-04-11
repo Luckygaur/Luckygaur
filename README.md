@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm **Luckygaur**, a passionate developer with a l
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Embedded C-073763?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -44,7 +42,6 @@ Welcome to my GitHub profile! I'm **Luckygaur**, a passionate developer with a l
 ### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -62,7 +59,7 @@ Welcome to my GitHub profile! I'm **Luckygaur**, a passionate developer with a l
 - Adaptability  
 - Analytical Thinking  
 - Problem Solving  
-- Data Structures and Algorithms (DSA)  
+- **Data Structures and Algorithms (DSA)** – Solved **400+ problems** across [LeetCode](https://leetcode.com/u/Lakshman_102003/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/lakshman_102003/practice/)
 - API Development & Integration  
 - Software Testing & Debugging  
 - Deployment using Docker  
