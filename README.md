@@ -68,6 +68,13 @@ Welcome to my GitHub profile! I'm **Luckygaur**, a passionate developer with a l
 - Deployment using Docker  
 
 ---
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luckygaur&show_icons=true&theme=radical" alt="Luckygaur's GitHub stats" />
+</p>
+
+---
 
 ## 📫 Connect with Me  
 [LinkedIn](https://www.linkedin.com/in/lakshman-599b9b290)  
