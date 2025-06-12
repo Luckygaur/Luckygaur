@@ -5,8 +5,9 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
 ---
 
 🚀 About Me  
-🔭 I’m currently working on various projects related to Artificial Intelligence, Machine Learning & Python Backend Development  
-🌱 I’m currently learning FAST APIs .
+🔭 I’m currently working on intelligent systems across AI/ML, NLP, and computer vision — including projects like semantic search, AQI forecasting, real-time object detection, and health risk prediction.  
+🌱 I’m currently diving deeper into scalable backend development using **FastAPI**, **Vector Search (FAISS)**, **Docker**, and **Transformers**.
+
 💬 Ask me about anything — I may either know it or I’ll learn it!  
 📫 How to reach me: gaurlucky102003@gmail.com
 
@@ -29,19 +30,24 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv5-000000?style=for-the-badge&logo=yolov5&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-2C9AB7?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & API Development
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Search
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Faiss-0099cc?style=for-the-badge&logo=vectorsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-D9B300?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -60,11 +66,16 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
 - Analytical Thinking  
 - Problem Solving  
 - **Data Structures and Algorithms (DSA)** – Solved **400+ problems** across [LeetCode](https://leetcode.com/u/Lakshman_102003/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/lakshman_102003/practice/)
-- API Development & Integration  
-- Software Testing & Debugging  
-- Deployment using Docker  
+- ML Model Deployment using **FastAPI + Streamlit**  
+- **Custom BERT** and **YOLOv5** pipelines  
+- AQI Forecasting using Time-Series ML  
+- Document Semantic Search using **FAISS + Transformers**  
+- Real-time Object Detection & Tracking  
+- API Design, Testing, and Integration  
+- Deployment using Docker
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="left">
@@ -78,4 +89,5 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
 <p align="left">
   <a href="https://www.linkedin.com/in/lakshman-599b9b290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
