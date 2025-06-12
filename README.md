@@ -43,6 +43,12 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+### 🧩 Python Backend Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
 ### 🗄️ Databases & Search
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -65,14 +71,14 @@ Welcome to my GitHub profile! I'm **Lakshman**, a passionate developer with a lo
 - Adaptability  
 - Analytical Thinking  
 - Problem Solving  
-- **Data Structures and Algorithms (DSA)** – Solved **400+ problems** across [LeetCode](https://leetcode.com/u/Lakshman_102003/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/lakshman_102003/practice/)
+- **Data Structures and Algorithms (DSA)** – Solved **400+ problems** across [LeetCode](https://leetcode.com/u/Lakshman_102003/) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/lakshman_102003/practice/)  
 - ML Model Deployment using **FastAPI + Streamlit**  
 - **Custom BERT** and **YOLOv5** pipelines  
 - AQI Forecasting using Time-Series ML  
 - Document Semantic Search using **FAISS + Transformers**  
 - Real-time Object Detection & Tracking  
 - API Design, Testing, and Integration  
-- Deployment using Docker
+- Deployment using Docker  
 
 ---
 
